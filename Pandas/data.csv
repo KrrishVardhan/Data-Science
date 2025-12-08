@@ -1,0 +1,8 @@
+Name,Age,Department,Position,Years_Experience,Salary,Performance_Rating,Projects_Completed,Hours_Worked_Per_Week,Education,Location,Skills
+Shrii,28,Engineering,Senior Developer,5,95000,4.5,23,42,Masters,Bangalore,Python|JavaScript|React
+Samay,32,Marketing,Marketing Manager,7,88000,4.2,18,38,Bachelors,Mumbai,SEO|Analytics|Content
+Bhargav,26,Engineering,Junior Developer,2,65000,4.0,12,40,Bachelors,Pune,Java|SQL|Spring
+Adarsh,35,Finance,Financial Analyst,10,105000,4.8,31,45,MBA,Delhi,Excel|SAP|Forecasting
+Prabh,29,Design,Lead Designer,6,82000,4.6,27,39,Bachelors,Hyderabad,Figma|Adobe|UI/UX
+MoneyBhai,41,Finance,CFO,15,185000,4.9,45,50,MBA,Mumbai,Strategy|Finance|Leadership
+Krish,24,Engineering,Intern,1,45000,3.8,8,35,Bachelors,Bangalore,Python|HTML|CSS
